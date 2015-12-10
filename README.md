@@ -4,4 +4,4 @@
 
 2，比较简洁，类似于PUSH的效果。
 
-![gif]
+![](https://github.com/xiefangzhenz/CustomKeyBoard/blob/master/自定义键盘/自定义键盘gif.gif)
